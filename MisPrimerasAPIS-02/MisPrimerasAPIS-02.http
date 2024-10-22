@@ -1,0 +1,6 @@
+@MisPrimerasAPIS_02_HostAddress = http://localhost:5073
+
+GET {{MisPrimerasAPIS_02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
